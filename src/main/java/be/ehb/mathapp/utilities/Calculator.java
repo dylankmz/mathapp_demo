@@ -28,6 +28,4 @@ public class Calculator {
        }
         return + fact;
     }
-
-
 }
