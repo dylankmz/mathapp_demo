@@ -42,7 +42,6 @@ public class CalculatorTest {
             }
         });
     }
-
     //Oef 3
     @Test
     public void checkFactorial() {
